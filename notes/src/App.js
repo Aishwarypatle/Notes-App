@@ -16,21 +16,6 @@ const App = ()=>
       id:nanoid(),
       text:'This is my second note',
       date:'02-01-2001'
-    },
-    {
-      id:nanoid(),
-      text:'This is my third note',
-      date:'03-01-2001'
-    },
-    {
-      id:nanoid(),
-      text:'This is my fourth note',
-      date:'04-01-2001'
-    },
-    {
-      id:nanoid(),
-      text:'This is my fifth  note',
-      date:'05-01-2001'
     }
 
   ])
