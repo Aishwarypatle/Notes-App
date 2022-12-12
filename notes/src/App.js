@@ -5,6 +5,7 @@ const App = ()=>
   return(
     <>
       <h1>Aishwary Patle</h1>
+      <h2>Aishwary Patle</h2>
     </>
   )
 }
