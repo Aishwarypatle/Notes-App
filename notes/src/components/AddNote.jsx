@@ -41,7 +41,7 @@ const AddNote = ({handleAddNote})=>
 
                 <div className="note-footer">
                     <small>{charLimit - noteText.length} remaining</small>
-                    <button onClick={handleSaveNote} className="save-note">Save</button>
+                    <button onClick={handleSaveNote} className="save">Save</button>
 
                 </div>
 
